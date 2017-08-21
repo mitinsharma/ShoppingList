@@ -4,7 +4,7 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 
 import { ShoppingListPage } from '../pages/shopping-list/shopping-list';
-import { AddShoppingPage } from '../pages/add-shopping/add-shopping';
+//import { AddShoppingPage } from '../pages/add-shopping/add-shopping';
 
 @Component({
   templateUrl: 'app.html'
